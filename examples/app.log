@@ -1,0 +1,5 @@
+2026-11-23T12:01:02Z INFO [api] server started on port 8080
+2026-11-23T12:01:05Z INFO [api] request completed in 42ms
+2026-11-23T12:01:06Z WARN [api] request completed in 51ms
+2026-11-23T12:01:09Z ERROR [db] connection timeout after 3s
+2026-11-23T12:01:12Z ERROR [db] connection timeout after 5s
